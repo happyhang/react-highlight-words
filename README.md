@@ -1,3 +1,10 @@
+Forked to fix the production bundle size of this package.
+
+Ref:
+https://github.com/bvaughn/react-highlight-words/pull/94
+
+---
+
 <img src="https://cloud.githubusercontent.com/assets/29597/11913937/0d2dcd78-a629-11e5-83e7-6a17b6d765a5.png" width="260" height="260">
 
 React component to highlight words within a larger body of text.
