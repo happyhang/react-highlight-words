@@ -82,7 +82,6 @@
     "latinize": "^0.2.0",
     "lodash": "^4.17.10",
     "mocha": "^2.3.4",
-    "phantomjs2": "^2.0.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-transform-hmr": "^1.0.1",
